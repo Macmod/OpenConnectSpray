@@ -50,7 +50,7 @@ Contributions are welcome by [opening an issue](https://github.com/Macmod/OpenCo
 # Todo
 
 * More options to forward to OpenConnect
-* Add option to ustomize output (JSON support)
+* Add option to customize output (JSON support)
 
 # License
 
